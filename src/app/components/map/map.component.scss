@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+}
+
+.map {
+  flex: 80%;
+  flex-shrink: auto;
+  margin-right: 15px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.info {
+  flex: 20%;
+  flex-shrink: auto;
+  border: 1px solid;
+  border-radius: 10px;
+  padding-left: 10px;
+}
