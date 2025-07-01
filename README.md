@@ -2,7 +2,7 @@
 
 (https://brunettisergio.github.io/world-countries-map/)
 
-Interactive Web App that created with the Angular framework, TS, SCSS and SVG graphics to display a world map. The website allows users to obtain information about different countries by clicking on them on the map. The website uses the World Bank API to get the country information, such as name, capital, population, etc.
+Interactive Web App created with the Angular, TS, SCSS and SVG graphics to display a world map. The app allows users to obtain information about different countries by clicking on them on the map. The website uses the World Bank API to get the country information, such as name, capital, population, etc.
 
 ## Features
 
